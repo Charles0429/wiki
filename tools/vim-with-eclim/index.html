@@ -1,0 +1,166 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+  <title>vim+eclim安装配置指南 | Charles的wiki</title>
+  <meta name="author" content="Charles0429">
+  
+  <meta name="description" content="介绍本文介绍了vim+eclim的安装配置，主要是为了解决vim不方便查看函数调用栈的问题。
+安装流程安装jdk 1.8由于我的系统已经安装好了，就不详述此部分的步骤了
+下载eclipse虽然官方的安装文档中推荐的是eclim2.6 + eclipse 4.6的配置，在这个配置下一直没有安装成功。因">
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <meta property="og:title" content="vim+eclim安装配置指南"/>
+  <meta property="og:site_name" content="Charles的wiki"/>
+
+  
+    <meta property="og:image" content="undefined"/>
+  
+
+  
+    <link rel="alternative" href="/atom.xml" title="Charles的wiki" type="application/atom+xml">
+  
+  
+    <link href="/favicon.png" rel="icon">
+  
+  
+  <link rel="stylesheet" href="/css/bootstrap.min.css" media="screen" type="text/css">
+  <link rel="stylesheet" href="/css/font-awesome.css" media="screen" type="text/css">
+  <link rel="stylesheet" href="/css/style.css" media="screen" type="text/css">
+  <link rel="stylesheet" href="/css/highlight.css" media="screen" type="text/css">
+  <link rel="stylesheet" href="/css/google-fonts.css" media="screen" type="text/css">
+  <link rel="stylesheet" href="/css/responsive.css" media="screen" type="text/css">  
+  <link rel="stylesheet" href="/css/sidenav.css" media="screen" type="text/css">  
+  <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+  <script src="/js/jquery-2.0.3.min.js"></script>
+
+  <!-- analytics -->
+  
+
+</head>
+
+<body id="body" data-spy="scroll" data-target=".toc">
+  <div class="container" id="container">
+	<div class="content">
+	  <div class="page-header">		
+  <h1><a class="brand" href="/">Charles的wiki</a><span class="split"></span><span class="title">vim+eclim安装配置指南</span><span class="date" id="title-date"><i class="fa fa-clock-o"></i> 2017-05-31</span></h1>
+</div>		
+
+<div class="row page">
+  <!-- cols -->	
+  
+  
+
+  
+	<div class="col-md-12">
+	  
+
+	  <!-- content -->
+	  <h1 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h1><p>本文介绍了vim+eclim的安装配置，主要是为了解决vim不方便查看函数调用栈的问题。</p>
+<h1 id="安装流程"><a href="#安装流程" class="headerlink" title="安装流程"></a>安装流程</h1><h2 id="安装jdk-1-8"><a href="#安装jdk-1-8" class="headerlink" title="安装jdk 1.8"></a>安装jdk 1.8</h2><p>由于我的系统已经安装好了，就不详述此部分的步骤了</p>
+<h2 id="下载eclipse"><a href="#下载eclipse" class="headerlink" title="下载eclipse"></a>下载eclipse</h2><p>虽然官方的安装文档中推荐的是eclim2.6 + eclipse 4.6的配置，在这个配置下一直没有安装成功。因此，本文采用的是eclim2.5 + eclipse 4.5的版本。</p>
+<p>首先，下载 eclipse for C/C++ IDE，下载链接为<a href="https://eclipse.org/downloads/packages/release/Mars/2" target="_blank" rel="external">eclipse Mars</a></p>
+<p>然后，解压</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">tar -xvf eclipse-cpp-mars-2-linux-gtk-x86_64.tar.gz</div></pre></td></tr></table></figure>
+<h2 id="下载eclim"><a href="#下载eclim" class="headerlink" title="下载eclim"></a>下载eclim</h2><p>下载eclim2.5版本，下载链接为<a href="https://sourceforge.net/projects/eclim/files/eclim/2.5.0/" target="_blank" rel="external">eclim2.5</a></p>
+<h2 id="安装eclim"><a href="#安装eclim" class="headerlink" title="安装eclim"></a>安装eclim</h2><p>使用如下命令</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">java \</div><div class="line">  -Dvim.files=$HOME/.vim \</div><div class="line">  -Declipse.home=$HOME/eclipse \</div><div class="line">  -jar eclim_2.5.0.jar install</div></pre></td></tr></table></figure>
+<p>这里假设eclipse是放在用户的home目录下的</p>
+<h2 id="启动eclim"><a href="#启动eclim" class="headerlink" title="启动eclim"></a>启动eclim</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">eclipse/eclimd -b</div></pre></td></tr></table></figure>
+<h2 id="检查是否安装成功"><a href="#检查是否安装成功" class="headerlink" title="检查是否安装成功"></a>检查是否安装成功</h2><p>打开vim，执行<code>:PingEclim</code>，如果能正确显示eclim和eclipse的版本号，那么说明安装成功。</p>
+<h2 id="查看调用栈的例子"><a href="#查看调用栈的例子" class="headerlink" title="查看调用栈的例子"></a>查看调用栈的例子</h2><p>以leveldb源码为例，查看其某个函数的调用栈。</p>
+<p>假设leveldb源码下载到$HOME/code/leveldb</p>
+<p>首先，以leveldb目录建立project</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">ProjectCreate $HOME/code/levedb -n c++</div></pre></td></tr></table></figure>
+<p>接着，打开<code>table/block.cc</code>文件，查看<code>DecodeEntry</code>函数的调用栈，把光标移动到DecodeEntry上，然后执行如下命令</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">:CCallHierarchy</div></pre></td></tr></table></figure>
+<p>效果如下图：</p>
+<p><img src="http://img.oserror.com/wiki/leveldb_call_graph.png" alt="call graph"></p>
+	  
+
+	  <div>
+  		<center>
+		  <div class="pagination">
+<ul class="pagination">
+	
+	
+	
+	
+	
+	
+		
+			
+			
+		
+	
+		
+	
+	
+	
+		<li class="prev disabled"><a><i class="fa fa-arrow-circle-o-left"></i>prev</a></li>
+	
+	<li><a href="/"><i class="fa fa-archive"></i>Home</a></li>
+	
+		<li class="next disabled"><a>next<i class="fa fa-arrow-circle-o-right"></i></a></li>
+	
+</ul>
+</div>
+
+		</center>
+	  </div>
+	  
+	</div> <!-- col-md-9/col-md-12 -->
+	
+  </div><!-- row -->
+
+	</div>
+  </div>
+  <div class="container-narrow">
+	<footer> <p>
+  &copy; 2017 Charles0429
+  
+      with help from <a href="http://zespia.tw/hexo/" target="_blank">Hexo</a> and <a href="http://getbootstrap.com/" target="_blank">Twitter Bootstrap</a>. Theme by <a href="http://github.com/wzpan/hexo-theme-wixo/">Wixo</a>.    
+</p> </footer>
+  </div> <!-- container-narrow -->
+  
+<a id="gotop" href="#">   
+  <span>▲</span> 
+</a>
+
+<script src="/js/jquery.imagesloaded.min.js"></script>
+<script src="/js/gallery.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/jquery.tableofcontents.min.js"></script>
+<script src="/js/tocgenerator.min.js"></script>
+<script src="/js/main.js"></script>
+<script src="/js/search.js"></script> 
+
+
+
+
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.css" media="screen" type="text/css">
+<script src="/fancybox/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+(function($){
+  $('.fancybox').fancybox();
+})(jQuery);
+</script>
+
+
+
+   <script type="text/javascript">      
+     var search_path = "search.xml";
+	 if (search_path.length == 0) {
+	 	search_path = "search.xml";
+	 }
+	 var path = "/" + search_path;
+     searchFunc(path, 'local-search-input', 'local-search-result');
+   </script>
+
+
+</body>
+</html>

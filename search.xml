@@ -4,6 +4,46 @@
   
     
     <entry>
+      <title><![CDATA[vim+eclim安装配置指南]]></title>
+      <url>http://wiki.oserror.com/tools/vim-with-eclim/</url>
+      <content type="html"><![CDATA[<h1 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h1><p>本文介绍了vim+eclim的安装配置，主要是为了解决vim不方便查看函数调用栈的问题。</p>
+<h1 id="安装流程"><a href="#安装流程" class="headerlink" title="安装流程"></a>安装流程</h1><h2 id="安装jdk-1-8"><a href="#安装jdk-1-8" class="headerlink" title="安装jdk 1.8"></a>安装jdk 1.8</h2><p>由于我的系统已经安装好了，就不详述此部分的步骤了</p>
+<h2 id="下载eclipse"><a href="#下载eclipse" class="headerlink" title="下载eclipse"></a>下载eclipse</h2><p>虽然官方的安装文档中推荐的是eclim2.6 + eclipse 4.6的配置，在这个配置下一直没有安装成功。因此，本文采用的是eclim2.5 + eclipse 4.5的版本。</p>
+<p>首先，下载 eclipse for C/C++ IDE，下载链接为<a href="https://eclipse.org/downloads/packages/release/Mars/2" target="_blank" rel="external">eclipse Mars</a></p>
+<p>然后，解压</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">tar -xvf eclipse-cpp-mars-2-linux-gtk-x86_64.tar.gz</div></pre></td></tr></table></figure>
+<h2 id="下载eclim"><a href="#下载eclim" class="headerlink" title="下载eclim"></a>下载eclim</h2><p>下载eclim2.5版本，下载链接为<a href="https://sourceforge.net/projects/eclim/files/eclim/2.5.0/" target="_blank" rel="external">eclim2.5</a></p>
+<h2 id="安装eclim"><a href="#安装eclim" class="headerlink" title="安装eclim"></a>安装eclim</h2><p>使用如下命令</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">java \</div><div class="line">  -Dvim.files=$HOME/.vim \</div><div class="line">  -Declipse.home=$HOME/eclipse \</div><div class="line">  -jar eclim_2.5.0.jar install</div></pre></td></tr></table></figure>
+<p>这里假设eclipse是放在用户的home目录下的</p>
+<h2 id="启动eclim"><a href="#启动eclim" class="headerlink" title="启动eclim"></a>启动eclim</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">eclipse/eclimd -b</div></pre></td></tr></table></figure>
+<h2 id="检查是否安装成功"><a href="#检查是否安装成功" class="headerlink" title="检查是否安装成功"></a>检查是否安装成功</h2><p>打开vim，执行<code>:PingEclim</code>，如果能正确显示eclim和eclipse的版本号，那么说明安装成功。</p>
+<h2 id="查看调用栈的例子"><a href="#查看调用栈的例子" class="headerlink" title="查看调用栈的例子"></a>查看调用栈的例子</h2><p>以leveldb源码为例，查看其某个函数的调用栈。</p>
+<p>假设leveldb源码下载到$HOME/code/leveldb</p>
+<p>首先，以leveldb目录建立project</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">ProjectCreate $HOME/code/levedb -n c++</div></pre></td></tr></table></figure>
+<p>接着，打开<code>table/block.cc</code>文件，查看<code>DecodeEntry</code>函数的调用栈，把光标移动到DecodeEntry上，然后执行如下命令</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">:CCallHierarchy</div></pre></td></tr></table></figure>
+<p>效果如下图：</p>
+<p><img src="http://img.oserror.com/wiki/leveldb_call_graph.png" alt="call graph"></p>
+]]></content>
+      
+        <categories>
+            
+            <category> tools </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> vim </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[Hello World]]></title>
       <url>http://wiki.oserror.com/uncategorized/hello-world/</url>
       <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
