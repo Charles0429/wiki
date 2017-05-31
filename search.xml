@@ -26,6 +26,44 @@
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">:CCallHierarchy</div></pre></td></tr></table></figure>
 <p>效果如下图：</p>
 <p><img src="http://img.oserror.com/wiki/leveldb_call_graph.png" alt="call graph"></p>
+<p>除了查看调用栈的功能，vim + eclim还可以实现eclipse两个常见功能：</p>
+<ul>
+<li>跳转到当前光标的函数定义</li>
+<li>查找函数名，类名和定义等</li>
+</ul>
+<h2 id="跳转到当前光标的函数定义"><a href="#跳转到当前光标的函数定义" class="headerlink" title="跳转到当前光标的函数定义"></a>跳转到当前光标的函数定义</h2><p>在当前光标下，执行<code>:CSearchContext</code>即可实现跳转</p>
+<p>然后，可以使用vim的跳转功能，实现跳转到上一个或者下一个：</p>
+<ul>
+<li>Ctrl+O:跳转到上一个</li>
+<li>Ctrl+I:跳转到下一个</li>
+</ul>
+<h2 id="查找某个符号"><a href="#查找某个符号" class="headerlink" title="查找某个符号"></a>查找某个符号</h2><p><code>:CSearch -p &lt;pattern&gt; [-t &lt;type&gt; -s &lt;scope&gt; -x &lt;context&gt; -i -a &lt;action&gt;]</code></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line">:CSearch &lt;Tab&gt;</div><div class="line">:CSearch -p MyClass* &lt;Tab&gt;</div><div class="line">:CSearch -p MyClass* -t &lt;Tab&gt;</div><div class="line">:CSearch -p MyClass* -t class &lt;Tab&gt;</div><div class="line">:CSearch -p MyClass* -t class -s &lt;Tab&gt;</div><div class="line">:CSearch -p MyClass* -t class -s project</div><div class="line">:CSearch -p MyClass* -t class -s project &lt;Tab&gt;</div><div class="line">:CSearch -p MyClass* -t class -s project -x &lt;Tab&gt;</div><div class="line">:CSearch -p MyClass* -t class -s project -x declarations</div></pre></td></tr></table></figure>
+<ul>
+<li>-p指的是要查找的模式，例如：</li>
+</ul>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">MyClass</div><div class="line">myFunction</div><div class="line">my*</div></pre></td></tr></table></figure>
+<ul>
+<li>-t指定类型：</li>
+</ul>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div></pre></td><td class="code"><pre><div class="line">class_struct</div><div class="line">function</div><div class="line">variable</div><div class="line">union</div><div class="line">method</div><div class="line">field</div><div class="line">enum</div><div class="line">enumerator</div><div class="line">namespace</div><div class="line">typedef</div><div class="line">macro</div></pre></td></tr></table></figure>
+<ul>
+<li>-s指定查找范围</li>
+</ul>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">all - 查找当前的workspacce.</div><div class="line">project - 查找当前project.</div></pre></td></tr></table></figure>
+<ul>
+<li>-x指定查找类型</li>
+</ul>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">all - 查找declarations和references.</div><div class="line">declarations - 查找declarations.</div><div class="line">references - 查找references.</div></pre></td></tr></table></figure>
+<ul>
+<li><p>-i 忽略大小写.</p>
+</li>
+<li><p>-a 如何打开查找的结果：edit, split, vsplit等</p>
+</li>
+</ul>
+<p>最后，为了更好用，在vimrc文件中添加如下配置</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">let g:EclimCSearchSingleResult = &apos;edit&apos;</div><div class="line">let g:EclimCCallHierarchyDefaultAction = &apos;edit&apos;</div><div class="line">nnoremap &lt;leader&gt;ce : call eclim#c#search#SearchContext(expand(&apos;&lt;args&gt;&apos;)) &lt;CR&gt;</div><div class="line">nnoremap &lt;leader&gt;csp : call eclim#c#search#Search(input(&apos;Pattern: &apos;.expand(&apos;&lt;args&gt;&apos;))) &lt;CR&gt;</div><div class="line">nnoremap &lt;leader&gt;cg : CCallHierarchy &lt;CR&gt;</div></pre></td></tr></table></figure>
+<p>这样就能用ce来调用CSearch，csp来调用CSearchContext，以及cg来调用CCallHierarchy.</p>
 ]]></content>
       
         <categories>
