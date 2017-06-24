@@ -115,3 +115,39 @@ I had seen doing----->|          |
                       |          |
 ----------------------------------->
 ```
+
+## 未来
+
+### 现在时态表示未来
+
+主要有三种：
+
+#### I'm doing somthing
+
+已经决定去做，并且安排好了。
+
+What are you doing on Saturday evening?
+
+#### I'm going to do something
+
+已经决定去做，但可能没安排好
+
+What are you going to do on Saturday evening?
+
+#### I do something
+
+一般跟时间表有关。
+
+例如，What time does the film start this evening?
+
+### will/shall
+
+Ｉ'll表示我刚刚决定去做某事。
+
+例如，Oh, I've left the door open. I'll go and shut it.
+
+之前已经决定去做，并且安排好的，不能使用will，例如, Are you working tommorrow?
+
+shall则主要是在疑问句中使用，表示询问某人的意见。
+
+Shall I open the window?　(= Do you want me to open the window).
