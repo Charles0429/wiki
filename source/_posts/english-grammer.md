@@ -151,3 +151,136 @@ What are you going to do on Saturday evening?
 shall则主要是在疑问句中使用，表示询问某人的意见。
 
 Shall I open the window?　(= Do you want me to open the window).
+
+## 情态动词
+
+### can, could and be able to
+
+- can:something is possible or allowed, or that somebody has the ability to do something
+- could: past form of can
+- be able to: can has only two forms, so sometime it is neccessary to use be able to
+
+For example:
+
+- Tom can come tomorrow
+- Tom might be able to come tomorrow
+
+could除了是can的过去时外，还有一些特殊用法：
+
+- 表达可能的行为
+
+What shall we do tonight?
+
+We could go to the cinema.
+
+- 表达不现实的行为
+
+I'm so tired, I  could sleep for a week.
+
+### must/can't
+
+must表达相信某事一定是对的
+
+can't表达相信某事一定是不可能的
+
+过去式为must have done and can't have done.
+
+### may and might
+
+may/might来表达某事有一定可能性发生。
+
+否定形式为may not/ might not。
+
+过去时为may have done/might have done。
+
+might 和 may的区别在于，当说话时场景不是真实时，用might.
+
+If the paid me better, I might work harder.
+
+#### 特殊用法
+
+might as well = We should do it because there is no better alternative. There is no reason not to do it.
+
+### must/have to
+
+have to表达某人有责任做某事
+
+must表示某人的观点，认为应该做某事。
+
+
+
+I have to work from 8.30 to 5.30 every day. 表达客观存在的责任。
+
+I haven't spoken to Sue for ages. I must phone her.
+
+### must mustn't needn't
+
+You must do something = It is necessary that you do it.
+
+You mustn't do something = It is necessary that you do not do it.
+
+needn't or don't need to = It is not necessary to do it.
+
+#### 特殊用法
+
+He needn't have done something = he did it, but now we know that it was not necessary.
+
+He didn't need to do something = it was not necessary to do it. It doesn't matter whether he did it or not.
+
+### should
+
+You should do something = it is a good thing to do or the right thing to do. You can use should to give advice or to give an opinion.
+
+We also use should to say that we expect something to happen.
+
+You should have done something = you didn't do it, but it would have been the right thing to do.
+
+You shouldn't have done something = you did it, but it was the wrong time to do.
+
+#### 固定用法
+
+insist, recommend, suggest, demand and propose一般用should。
+
+例如，I insisted that he should apologise.
+
+if something should happen, 表达某事发生概率较小。
+
+### had better
+
+I'd better/you'd better
+
+I'd better do something = it is advisable to do it. If I don't do it, there will  be a problem of danger.
+
+had better vs should
+
+had better一般用于特殊场景，而should可以用于所有场景。
+
+It's late. You'd better go/You should go. 特殊场景。
+
+You're always at home. You should go out more often. 普通场景。
+
+### It's time
+
+It's time to do something.
+
+It's time somebody did something = they should have already done it or started it. For example, it's time they were here. Why are they so late?
+
+### Would
+
+We use would/wouldn't when we imagine a situation or action.
+
+例句，It would be nice to buy a new car, but we can't afford it.
+
+#### 特殊用法
+
+Somebody wouldn't do something = he/she refused to do it.
+
+### Can/Could/Would you … ?
+
+表达请求时常用的句式。
+
+could you wait a moment, please?
+
+Would you please be quiet? I'm trying to concentrate.
+
+Would you like a cup of tea?
