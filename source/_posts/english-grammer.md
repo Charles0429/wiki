@@ -284,3 +284,41 @@ could you wait a moment, please?
 Would you please be quiet? I'm trying to concentrate.
 
 Would you like a cup of tea?
+
+## if and wish
+
+### If I do … and If I did
+
+一个例子：
+
+- 场景1
+
+Lisa: Shall we go by bus or by train?
+
+JESS: If we go by bus, it will be cheaper.
+
+For Jess, it is possble that they will go by bus
+
+- 场景2
+
+Lisa and Jess decide to go by train.
+
+Later, Jess talks to Joe.
+
+Joe: How are you going to travel?
+
+Jess: We're going by train. If we went by bus, it would be cheaper, but the train is faster.
+
+### If I knew.. I wish I knew
+
+一个例子：
+
+Sarah wants to phone Paul, but she can't do this because she doesn't know his number. She says:
+
+If I knew his number, I would phone him.
+
+表达的时候，假象的一个场景，使用if + past，并不表示真的是过去式。
+
+同样的I wish I knew也是类似的。
+
+I wish I knew Paul's phone number.  = (I don't know it and I regret this).
