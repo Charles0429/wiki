@@ -322,3 +322,115 @@ If I knew his number, I would phone him.
 同样的I wish I knew也是类似的。
 
 I wish I knew Paul's phone number.  = (I don't know it and I regret this).
+
+## 被动语态
+
+be done
+
+例如:
+
+被动语态：This house was built in 1961.
+
+主动语态：Somebody built this house in 1961.
+
+一般使用被动语态时，不需要关注谁做了这件事，如果需要关注，则使用by.
+
+例如，This house was built by Tom in 1961.
+
+#### 不同时态的被动语态
+
+- 现在时
+
+主动：do/clean/see
+
+被动：be + done/cleaned/seen
+
+Somebody will clean this room later.
+
+This room will be cleanted later.
+
+- 现在完成时
+
+主动：have/has + done
+
+被动：have/has been + done
+
+This room looks nice. Somebody has cleaned it.
+
+This room looks nice. It has been cleaned.
+
+- 过去完成时
+
+主动：had + done
+
+被动：had been + done
+
+The room looked nice. Somebody had cleanted it.
+
+The room looked nice. It had been cleaned.
+
+- 现在进行时
+
+主动：am/is/are + doing
+
+被动：am/is/are + being done
+
+Somebody is cleaning the room at the moment.
+
+The room is being cleaned at the moment.
+
+- 过去进行时
+
+主动：was/were + doing
+
+被动：was/were + being done
+
+Somebody was cleaning the room when I arrived.
+
+The room was being cleaned when I arrived.
+
+#### 特殊用法
+
+I don't like being
+
+主动：I don't like people telling me what to do.
+
+被动：I don't like being told what to do.
+
+I was born
+
+某些情况下，可以用get替代be，一般是事情发生的时刻，并且通常用于口语中。
+
+There was a fight at the party, but nobody got hurt.
+
+Jessica is liked by everybody. (don't use get here,  this is not a happening).s
+
+还有部分get的固定用法，但并不表示被动
+
+get married, get divorced
+
+get dressed
+
+get lost
+
+get changed
+
+It is said/alleged/believed/considered/expected/known/repoted/thought/understood that
+
+be supposed to，有时候等价于it is said to be，有时候表达的是期望
+
+例如，
+
+I want to see that film. It's supposed to be good. = (It is said to be good)
+
+The plan is supposed to be a secret, but everybody seems to know about it. (= intended, expected)
+
+have something done = we arrange for somebody else to do something for us.
+
+Lisa reparied the roof. (= she repaired it herself.)
+
+Lisa had the roof repaired . (= she arranged for somebody else to repair it.)
+
+有时候，have something done = (something happens to somebody or their belongings)
+
+例如，Paul and Karen had their bags stolen while they were travelling.
