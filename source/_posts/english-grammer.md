@@ -434,3 +434,469 @@ Lisa had the roof repaired . (= she arranged for somebody else to repair it.)
 有时候，have something done = (something happens to somebody or their belongings)
 
 例如，Paul and Karen had their bags stolen while they were travelling.
+
+## Reported speech
+
+转述他人的话，例如，
+
+Paul said 'I'm feeling ill'.
+
+转述的方式是
+
+Paul said that he was feeling ill.
+
+转述的时候，一般用过去时态，有一种情况除外，即说话者所说的事情，现在也是成立的。
+
+例如，Paul said that his new job is boring. (The situation is still the same. His job is still boring now.)
+
+## Questions
+
+陈述句时，一般用主语 + 动词，而疑问句则是动词 + 主语。
+
+例如，
+
+Tom will -> will Tom?
+
+you have-> have you?
+
+the house was -> was the house?
+
+一般现在时态，使用do/does
+
+you live -> do you live?
+
+the film starts ->does the film start?
+
+注意，当who/what是主语时，不能使用do/does/did。
+
+who object
+
+Emma phoned somebody.
+
+Who did Emma phone?
+
+who subject
+
+Somebody phoned Emma.
+
+Who phoned Emma?
+
+否定疑问句表示惊讶的语气。
+
+Isn't it…? / Didn't you?
+
+Didn't you hear the doorbell? I rang it three times.
+
+### 特殊句式
+
+Do you know where…? / I don't know why … / Could you tell me what..?
+
+Do you know where Tom has gone? (not Do you know where has Tom gone?)
+
+The police officer aksed us where we were going?
+
+## Auxiliary verbs
+
+- use an auxiliary verb when you don't want to repeat something
+
+Have you locked the door? Yes, I have.
+
+Gary wasn't working, but Laura was.
+
+当时一般现在时或过去时，使用do/does/did.
+
+Do you like onions? Yes, I do.
+
+Does Simon live in London? He did, but he doesn't any more.
+
+- Use have you ? / isn't she? / do they?表示对某人说的话感兴趣
+
+I've just seen Stephen. Oh, have you? How is she?
+
+Lisa isn't very well today. Oh, isn't she? What's wrong with her?
+
+- Use auxiliary verbs with so and neither
+
+I'm tired. So am I.
+
+I never read newspapers. Neither do I.
+
+- I think so / I hope so
+
+固定用法。
+
+## -ing  and to
+
+### Verb + -ing
+
+enjoy, mind, suggest, stop, postpone, admit, avoid, imagine, finish, consider, deny, risk and fancy.
+
+例如，Suddenly everybody stopped talking. There was slilence.
+
+give up, put off, go on, carry on, keep and keep on, also +ing
+
+例如，I've given up reading newspapers. I think it's a waste of time.
+
+verb + somebody + -ing
+
+I can't imagine George riding a motorbike.
+
+### Verb + to
+
+offer, decide, hope, deserve, promise, agree, plan, manage, afford, threaten,
+
+refuse, arrange, fail, forget and learn.
+
+例如，It was late, so we decided to take a taxi home.
+
+seem, appear, tend, pretend, claim.
+
+例如，You seem to have lost weight.
+
+what/whether/how + to
+
+ask, decide, know, remember, forget, explain, learn, underst and wonder
+
+例如
+
+We asked how to get to the station?
+
+Have you decided where to go for your holidays?
+
+I don't know whether to apply for the job or not.
+
+show/tell/ask/advise/teach somebody what/how/where to do something
+
+Can somebody show me how to use this camera?
+
+Ask Jack. He'll tell you what to do.
+
+### Verb (+ object) + to … 
+
+- want/ask/help/would like/expect/beg/mean/would prefer
+
+verb + (object) + to，这里object可有可无
+
+We expected to be late / We expected Dan to be late.
+
+- tell/remind/force/encourage/teach/enable/order/warn/invite/persuade/get
+
+verb + object + to
+
+Can you remind me to call Sam tomorrow?
+
+Who taught you to drive?
+
+- advise and allow
+
+verb + ing or verb + object + to
+
+I woun't advise staying in that hotel.
+
+I woun't advise anybody to stay in that hotel.
+
+- Make and let
+
+verb + object + infinitive
+
+I made him promise that he wouldn't tell anybody what happened.
+
+Hot weather makes me feel tired.
+
+### Verb + ing or to (different meaning)
+
+remember doing something = I did it and now I remember this.
+
+remembered to do something = I remembered that I had to do it, so I did it.
+
+regret doing something = I did it and now I'm sorry about it.
+
+regret to do something = I'm sorry that I have to say.
+
+go on doing something = continue with the same thing
+
+go on to do something = do another thing
+
+try to do something = attempt to do, make an effort to do
+
+try doing something = do something as an experiment
+
+例如
+
+I tried to move the table, but it was too heavy.
+
+I didn't like the way the furniture was arranged, so I tried moving the table to the other side of the room.				
+
+- Would Like I would love I would hate I would prefer通常后面+to						
+
+I would like to have done something= I regret now that I didn't or couldn't do it
+
+prefer to do something / doing something都是可以的，但是在以下句式下一般只用to do。
+
+I prefer to do something rather than do something.
+
+would rather do something = would prefer to do something
+
+I'd rather somebody did something = would prefer
+
+### Prepostition(in/for/about etc.) +-ing
+
+例如，interested in doing something				
+
+before -ing and after -ing
+
+by  -ing
+
+she made herself ill by not eating properly.
+
+without -ing
+
+We ran ten kilometers without stopping.
+
+to -ing
+
+look forward to doing something.
+
+一些固定用法
+
+approve of doing something
+
+decide against
+
+dream of
+
+feel like
+
+insist on
+
+look forward to
+
+succeed in
+
+think of/about
+
+accuse somebody of
+
+congratulate somebody on
+
+excuse somebody for
+
+prevent somebody from 
+
+stop somebody from
+
+supect something of
+
+thank somebody for
+
+### be used to
+
+be used to doing something
+
+be used to something.
+
+I'm used to something = it is not new or strange for me.
+
+例如，I bought some new shoes. They felt a bit strange at first because I wasn't used to them.
+
+I am used to doing VS I used to do
+
+I am used to doing = it isn't strange or new for me.
+
+I used to do something = I did it regularly in the past but no longer do it.
+
+### Expressions + -ing
+
+It's no good + -ing
+
+It's no use + -ing
+
+It's worth
+
+have trouble / have difficulty -ing
+
+spend time / waste time / be busy
+
+go swimming / go fishing : go + -ing for a number of activities
+
+### adjective + to
+
+be difficult to
+
+be easy to
+
+nice, safe, cheap, exciting, impossible, hard, good, dangerous, expensive and interesting
+
+it's nice of somebody to do something
+
+sorry to/ surprised to
+
+the first / the next to
+
+something is sure/certain/likely/bound to happen.
+
+### see somebody do and see somebody doing
+
+I saw him do something = I saw the complete action from beginning to end.
+
+I saw him doing something = hew was doing something and I saw this. I saw him when he was in the middle of doing it. This does not  mean I saw the complete action.
+
+I saw Tom get into his car and drive away.
+
+I saw Kate waiting for a bus.
+
+对于hear，notice，listen，smell等都通用
+
+### -ing clauses
+
+Joe was playing football. He hurt his knee, you can say:
+
+Joe hurt his knee playing football.
+
+You were feeling tired. So you went to bed early. You can say:
+
+Feeling tired, I went to bed early.
+
+两件事同时发生，也能这么用：
+
+Kate is in the kitchen making coffee.
+
+A man ran out of the house shouting.
+
+When one action happens before another action, we use having done for the first action.
+
+Having found a hotel, we looked for somewhere to have dinner.
+
+Having finished her work, she went home.
+
+## Articles and nouns
+
+### Countable and uncountable
+
+a noun can be a countable or uncountable.
+
+- countable
+
+can be singular or plural
+
+singlualr: banana
+
+plural: bananas
+
+use a/an with singular countable, often refers to what kind of thing something is, or what kind of person somebody is.
+
+some/any with plural countable nouns
+
+many/few with plural countable nouns
+
+- uncountable
+
+use a … of, eg, a bowl of rice.
+
+can use some and any with uncountable nouns
+
+use much and litter with uncountable nouns
+
+common uncountable nouns:
+
+Coffee/tea/juice/beer
+
+accommodation, behaviour, damage,luck,permission,traffic,advice,bread,furniture,luggage,progress,weather,baggage,chaos,information,news,scenery and work.
+
+#### note
+
+many nouns can be used as countable or uncountable nouns, usually with a difference in meaning.
+
+Did you hear a noise just now? = a special noise.
+
+I can't work here. There's too much noise. = (noise in general).
+
+### a/an the
+
+We use **the** when we are thinking of a specific thing. Compare a/an and the:
+
+Tim sat down on a chair (perhaps one of many chairs in the room)
+
+Tim sat down on the chair nearest the door. (a specific chair).
+
+We use **the** when it is clear in the situation which thing or person we mean. For example, in a room we talk about **the light** / **the floor**/ **the ceiling**.
+
+### the
+
+- we use **the** when there is only one of something
+
+What's the longest river is Europe?
+
+the sun, the moon,the sky...
+
+#### 固定搭配
+
+go to the cinema, the theatre.
+
+the breakfast/the lunch/the dinner
+
+go to school:上学
+
+go to the school:去学校
+
+对于prison, hospital,university,college,church是类似的
+
+go to bed
+
+go to work/ be at work/start work/ finish work
+
+go home / come home/ arrive home/ get home/be at home
+
+go to sea
+
+the + adjective: refers to groups of people.
+
+the young, the rich, the sick
+
+the + nationality: the French, the English / the Chinese
+
+the republic, kingdom / states			
+
+We use the with the names of oceans, seas, rivers and canals: the Atlantic, the Red Sea
+
+we say the north but northern, the south-east but south-eastern
+
+### Singular and plural
+
+Sometimes we use a plural noun for one thing that has two parts. For example, glasses, scissors, trousers.
+
+Some singular nouns are often used with a plural verb. For example:
+
+audience committee company family firm government staff team
+
+The government have decided to increase taxes.
+
+The staff at the company are not happy with their working conditions.
+
+### ‘s
+
+- We use 's mostly for people or animals.
+
+Tom's computer isn't working.
+
+with a singular noun we use -'s
+
+my sister's home
+
+with pluar noun we put an apostrophe at the end of the word:
+
+my sisters' room
+
+if a plural noun does not end in -s, we use -'s
+
+for example, the men's changing room
+
+- For things, ideas, we normally use of.
+
+the temperature of the water, the name of the book.
+
+also use 's with time words
+
+Do you still have yesterday's newspaper?
+
+Next week's meeting has been cancelled.
