@@ -900,3 +900,265 @@ also use 's with time words
 Do you still have yesterday's newspaper?
 
 Next week's meeting has been cancelled.
+
+## Pronouns and determiners
+
+### Myself/yourself/themselves
+
+when the *subject* and *object* are the same.
+
+Steve introducted himself.
+
+do something -self 某人自己做某事
+
+I repaired it myself. 
+
+### mine / my own / on my own / by myself
+
+- a friend of mine/yours/his/hers/ours/theirs
+
+a friend of mine = one of my friends
+
+- My own / you own
+
+My own = something that is only mine, not shared or borrowed.
+
+I don't want to share a room with anybody. I want my own room.
+
+- on my own / by myself
+
+on my own and by myself both mean 'alone'
+
+I like living on my own / by myself.
+
+### There … and it ...
+
+- We use **there** when we talk about something for the first time, to say that exists
+
+There's a new restaurant in Hill  Street.
+
+I'm sorry I'm late. There was a lot of traffic.
+
+- It = a specific thing, place, fact
+
+We went to the new restaurant. It's very good.
+
+I wasn't expecting them to come. It was a complete surprise.
+
+### some and any
+
+- In general, we use **some** in positive sentences and **any** in negative sentences
+
+We bought some flowers.
+
+We didn't buy and flowers.
+
+- in questions we use both **some** and **any**
+
+we use **some / somebody / something** to talk about a person or thing that we know exists, or we think exists:
+
+Are you waiting for somebody?
+
+we use **some** in questions when we offer or ask for things.
+
+Would you like **something** to eat?
+
+Can I have **some** sugar, please?
+
+In most questions, we use **any**.
+
+Do you have any luggage? No, I don't.
+
+- we often use **any** after if
+
+If anyone has any questions, I'll be pleased to answer them.
+
+- We also use **any** with the meaning 'it doesn't matter which'
+
+Come and see me any time you want.
+
+You can take any bus. They all go to the centre.
+
+- Somebody/someone/anybody/anyone are singular words:
+
+Someone is here to see you.
+
+### No/none/any Nothing/nobody
+
+- No = not a or not any
+
+Sue will have no trouble finding a job. = (Sue won't have any trouble…).
+
+- We use **none** without a noun
+
+How much money do you have? None
+
+All the tickets have been sold. There are none left.
+
+也可以使用none of
+
+This money is all yours. None of it is mine.
+
+none of + plural时，一般动词用复数形式。
+
+None of the shops were open.
+
+- Nothing nobody/no-one nowhere
+
+可以在句子开始时使用
+
+What's going to happen? Nobody knows.
+
+也可以在动词后面使用
+
+We had nothing to eat.
+
+Nothing/nobody = not + anything/anybody
+
+I said nonthing = I didn't say anything.
+
+- after nobody/no-one you can use they/them/their
+
+Nobody is perfect, are they?
+
+- any/anything/anybody sometimes means 'it doesn't matter which/what/who'
+
+### Much, many, little, few, a lot, plenty
+
+- much and little with *uncountable* nouns
+- many and few with *plural* nouns
+- use **a lot of / lots of / plenty of** with both *uncountable* and *plural* nouns
+- much is unusual in positive sentences
+
+We didn't spend much money
+
+We spent a lot of money. (not We spent much money).
+
+- Little = not much, few = not many
+
+Gray is very busy with his job. He has **little time** for other things.
+
+- a little = some, a small amount; a few = some, a small number
+
+### all / all of   most / most of  no / none of
+
+- all/some/any/most/much/many/little/few/no + noun
+
+All cars have wheels.
+
+- all/some/any/most/much/many/little/few/half/none
+
+we use some of/most of/none of + the/this/those + my/these/those
+
+例如，some of the people, some of those people.
+
+- all of /some of / none of + it/us/you/them
+
+Do any of you want to come to a party tonight?
+
+- you can use **some/most** alone, without a noun
+
+Some cars have four doors and **some** have two.
+
+### Both / both of  neither / neither of  either / either of
+
+- we use **both/neither/either** for two things. You can use these words with a noun(**both books** , **neither books**)
+
+Both restaurants are very good.
+
+- both of / neither of / either of
+
+we use **both of / neither of / either of** + the/these/my/Tom's 
+
+Both of these restaurants are very good.
+
+Neither of the restaurants we went to was (or were) expensive.
+
+- both … and… / neither … nor … / either … or ...
+
+Both Chris and Paul were late.
+
+Neither Chris nor Paul came to the party.
+
+Either you apologize, or I'll never speak to you again.
+
+- compare either/neither/both(two things) and any/none/all(more than two)
+
+There are two good hotels here. you could stay at either of them.
+
+There are many good hotels here. You could stay at any of them.
+
+### All, every and whole
+
+- all and everybody/everyone
+
+We do not normally use all to mean everybody/everyone.
+
+Everybody had a great time at the party(not All enjoyed)
+
+But we say all of use/ all of you/ all of them.
+
+-  All and everything
+
+You can say all I need etc, but we do not normally use **all** alone.
+
+He thinks he knows everything.
+
+you can use **all about**
+
+He knows all about computers.
+
+- Every/everybody/everyone/everything are singular words
+
+Every seat in the theatre was taken.
+
+Everybody has arrived.
+
+- whole and all
+
+Whole = complete, entire. Most often we use **whole** with singular nouns.
+
+Did you read the whole book?
+
+We use **the/my/her** etc. before whole. Compare whole and all
+
+her whole life / all her life.
+
+- Every/all/whole with time words
+
+We use **every** to say how often something happens(**every day / every Monday / every ten minutes / every three weeks**)
+
+All day / the whole day = the complete day from beginning to end.
+
+Compare all the time and every time.
+
+They never go out. They are at home all the time.
+
+Every time I see you, you look different.
+
+### Each and every
+
+- each: we think of things separately, one by one
+- every: we think of things as a group
+
+Study each sentence carefully.
+
+Every sentence must have a verb.
+
+- each can be used alone, but not every
+
+None of the rooms was the same. Each was different.
+
+Have you read all these books? Yes, every one.
+
+- each of / every one of
+
+Read each of these sentences carefully.
+
+I've read every one of those books.
+
+- everyone and every one
+
+everyone is only for people
+
+every one is for things or people
