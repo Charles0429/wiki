@@ -1162,3 +1162,151 @@ I've read every one of those books.
 everyone is only for people
 
 every one is for things or people
+
+## Relative clauses
+
+A clause is a part of a sentence. A relative clause tells us which person or thing the speaker means.
+
+### clauses with who/that/which
+
+The woman **who lives the next door** is a doctor.
+
+- We use **who** in a relative clause when we are talking about people.
+
+You can also use **that** (instead of **who**), but you can't use **which** for people.
+
+- When we are talking about things, we use **that** or **which** in a relative clause
+
+I don't like stories that have unhappy endings.
+
+**That** is more usual than **which**.
+
+- What = the thing that
+
+What happened was my fault.
+
+### clauses with and without who/that/which
+
+- You must use **who/that/which** when it is subject of the relative clause.
+
+The woman who lives next door is a doctor.
+
+Here who = the woman, is the *subject*
+
+so, 'The woman lives next door is a doctor' is wrong.
+
+- when **who/that/which** is the object, you can leave it out.
+
+The women **who** I wanted to see was away on holiday.
+
+who = I wanted to see the woman = the object.
+
+The women I wanted to see was away on holiday.
+
+- What = the things that
+
+Did you hear what they said? ( = the things that they said)
+
+### whose whome where
+
+- We use **whose** in relative clauses instead of **his/her/their**
+
+We helped some people whose car had broken down.
+
+We hepled some people - their car had broken down.
+
+- **whom** is possible instead of **who** when it is the *object* of the verb in the relative clause
+
+Gegore is a person **whom I admire** very much. (I admire him.)
+
+Whom is a formal word and we do not often use it in this way, we usually prefer **who** or **that**, or nothing.
+
+- where
+
+You can use **where** in a relative clause to talk about a place.
+
+The restaurant where we had lunch was near the airport.
+
+- the day/the year/the time (that) something happens
+
+The last time (that) I saw Anna, she looked great.
+
+- the reason (that/why) something happens
+
+The reason I'm phoning is to ask your advice.
+
+### extra information clauses
+
+The woman who lives next door is a doctor.
+
+who lives next door tells use which woman.
+
+My brother Ben, who lives in HongKong, is an architect.
+
+We already know Ben, lives in HongKong is the extra information about the person or thing.
+
+- we can not use that for extra information
+
+John, **who**(not that) speaks French and Italian, works as tour guide.
+
+Anna told me about her new job, **which**(not that) she's enjoying a lot.
+
+- we can use whose and where for extra information
+
+Lisa, whose car had broken down, was in a very bad mood.
+
+Kate has just been to Sweden, **where** her daughter lives.
+
+- prepostitions + **whom/which**
+
+You can use a prepostition before whom(for people) and which(for things). So you can say: to whom/with whom/about which/without which.
+
+Mr lee, to whom I spoke at the meeting, is very interested in our proposal.
+
+In informal English, we often keep the preopostition after the verb in the relative clause. When we do this, we normally use **who** fo people.
+
+This is my friend Canada, **who** I was telling you **about**.
+
+- All of / most of + whom/which
+
+Helen has three brothers, all of whom are married.
+
+They asked me a lot of questions, most of which I couldn't answer.
+
+In the same way you can say:
+
+none of/neither of/any of/either of/some of/many of/much of/few of/both of/half of/each of/one of/two of etc.
+
+- the cause of which, the name of which
+
+We stayed at a beautiful hotel, the name of which I can't remember now.
+
+### -ing and -ed clauses
+
+Some clauses begin with -ing or -ed. For example:
+
+Do you know the woman talking to Tom?
+
+The boy injured in the accident was taken to hospital.
+
+- we use -ing clauses to say what somebody is doing at a particular time
+
+Police investigating the crime are looking for three men.
+
+- -ed clauses have a passive meaning
+
+The boy injured in the accident was taken to the hospital.
+
+George showed me some pictures painted by his father.
+
+- we often use -ing and -ed clauses after there is / there was
+
+There were some children swimming in the river.
+
+Is there anybody waiting?
+
+There was a big red car parked outside the house.
+
+# References
+
+- English Grammer in use 4th Edition
