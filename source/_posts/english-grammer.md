@@ -1307,6 +1307,356 @@ Is there anybody waiting?
 
 There was a big red car parked outside the house.
 
+## Adjectives and adverbs
+
+### Adjectives ending in -ing and -ed
+
+Somebody is bored if something is boring.
+
+- -ing adjective tells about something
+
+My job is boring.
+
+- -ed tells how somebody feels
+
+I'm not satisfied with my job.
+
+### Adjectives: a nice new house, you look tired
+
+- Sometimes we use two or more adjectives together
+
+Adjectives like **new/large/round/wooden** are *fact* adjectives. They give us factual information about age, size, color etc.
+
+Adjectives like **nice/beautiful** are *opinion* adjectives. They tell us what somebody thinks of something of somebody.
+
+Opinion adjectives usually go before fact adjectives.
+
+a nice long summer holiday.
+
+an interesting young man.
+
+- Sometimes we use two or more fact adjectives tougher. Usually we put fact adjectives in this order
+
+1.how big? -> 2.how old? -> 3.what color? -> 4.where from? ->5.what is it made of?
+
+a tall young man 1->2
+
+a large wooden table 1->5
+
+- We use adjectives after **be/get/become/seem**
+
+I'm tired and I'm getting hungry.
+
+- We also use adjectives to say how somebody/something looks, feels, sounds, tastes or smells
+
+You look tired.
+
+- We say the first two days/ next few weeks/ the last ten minutes
+
+### Adjectives and adverbs1 (quick/quickly)
+
+- Adjectives tell us about a noun. We use adjectives before nouns.
+
+Sam is a careful driver.
+
+- Adverbs tell us about a verb
+
+Sam drove carefully along the narrow road.
+
+- We also use adverbs before *adjectives* and other *adverb*s
+
+**reasonably** cheap (adverb + adjective)
+
+**terribly** sorry (adverb + adjective)
+
+**incredibly** quickly (adverb + adverb)
+
+### Adjectives and adverbs 2(well/fast/late, hard/hardly)
+
+- good / well
+
+Good is an adjective. The adverb is well.
+
+- Fast/hard/late
+
+These word are both adjectives and adverbs.
+
+Darren is a very fast runner.
+
+Darren can run very fast.
+
+- Hardly
+
+Hardly = very little, almost not.
+
+Sarah wasn't very friendly at the party. She hardly spoke to me.
+
+I can hardly do something = it's very difficult for me, almost impossible.
+
+You can use **hardly + any/anybody/anyone/anything/anywhere**
+
+How much money have we got?
+
+Hardly any = almost none
+
+### So and such
+
+- We use so + *adjective/adverb*
+
+I didn't like the book. The story was so stupid.
+
+- We use such + noun / such + adjective + noun
+
+I didn't like the book. It was such a stupid story.
+
+- so and such make the meaning stronger
+
+It's a beautiful day, isn't it? It's **so warm**.
+
+It was a great holiday. We had **such a good time**.
+
+You can use so .. that:
+
+The book was so good that I couldn't put it down.
+
+You can use such … that
+
+It was such a good book that I couldn't put it down.
+
+- We also use so and such with the meaning 'like this'
+
+Somebody told me the house was built 100 years ago. I didn't realize it was so old.
+
+I didn't realise it was such an old house.
+
+- so long vs such a long time
+
+I haven't seen her for so long I've forgotten what she looks like.
+
+I haven't seen her for such a long time.
+
+### Enough and too
+
+- Enough goes after adjectives and adverbs
+
+I can't run very far. I'm not fit enough.
+
+- Enough normally goest before nouns
+
+I can't run very far. I don't have enough energy.
+
+- We say enough/too … for somebody/something
+
+Does Joe have enough experience for the job?
+
+This bag isn't big enough for all my clothes.
+
+### Quite, pretty, rather and fairly
+
+- You can use **quite/pretty/rather/fairly** + adjectives or adverbs
+
+It's quite cold.
+
+- Quite and pretty are similar in meaning
+
+Sarah has quite a good job.
+
+Sarah has a pretty good job.
+
+- Rather is similar to quite and pretty. We often use rather for negative ideas(things we think are not good.)
+
+The weather isn't so good. It's rather cloudy.
+
+- Fairly is weaker than **quite/rather/pretty**. For example, if something is fairly good, it is not very good and it could be better.
+
+My room is fairly big, but I'd prefer a bigger one.
+
+- Quite also means completely. 
+
+Are you sure? Yes, quite sure.
+
+### Comparison 1 (cheaper, more expensive)
+
+Let's drive. It's cheaper.
+
+Don't go by train. It's more expensive.
+
+- The comparative form is -er or more
+
+We use -er for short words (one syllable):
+
+cheap->cheaper fast->faster
+
+large->larger thin->thinner
+
+We also use -er for two-syllable words that end in -y (-y -> ier)
+
+lucky->luckier early->earlier
+
+easy->easier pretty->prettier
+
+We use more … for longer words (two syllables or more)
+
+more serous more often more expensive more comfortable
+
+We also use more .. for adverbs that end in -ly:
+
+more slowly more seriously more easily more quitely
+
+- A few adjectives and adverbs have irregular comparative forms
+
+good/well -> better
+
+bad/badly->worse
+
+far->further
+
+### Comparison 2 (much better/ any better/better and better/the sooner the better)
+
+- Before comparatives you can use
+
+much/a lot/far/a bit/a little/slightly
+
+Let's go by car. It's much cheaper.
+
+- You can use any and no + comparative (any longer / no bigger)
+
+I've waited long enough. I'm not wating any longer.
+
+- Better and better/ more and more
+
+We repeat comparatives(better and better) to say that something changes continuously.
+
+- The … the ...
+
+The (sooner/bigger/more) the better
+
+What time shall we leave? The sooner the better.
+
+###  Comparison 3 (as … as / than)
+
+He is richer than David.
+
+But he isn't as rich as Sarah.
+
+- the same as
+- as … as/ twice as … as
+- than me / than I am
+
+You're taller than me. You're taller than I am.
+
+### Superlatives
+
+the longest/the most enjoyable
+
+The superlative form -est or most.
+
+long->longest  hot->hottest  easy->easiest  hard->hardest
+
+but most famous most boring most difficult most expensive
+
+A few adjectives are irregular:
+
+good->best bad->worst far->furthest/farthest
+
+- We normally use the before a superlative
+
+Yesterday was the hottest day of this year.
+
+- After superlatives we normally use in with places
+
+What's the longest river in the world?
+
+We had a nice room. It was one of the best in the hotel.
+
+- We often use present perfect after a superlative
+
+What's the most important decision you've ever had to make?
+
+### word order1: verb + object + place/time
+
+- verb + object
+
+Did you see your friends yesterday?
+
+- place and time
+
+Usually the verb and the place go together.
+
+go home  live in a city
+
+verb + object + place
+
+take somebody home
+
+- Times goes after place
+
+I'm goint to Paris on Monday.
+
+### Word order 2: adverbs with the verb
+
+- Some adverbs go with the verb in the middle of a sentence
+
+Helen always drives to work.
+
+- If the verb is one word(drives/fell/cooked), the adverb goes before verb
+
+Helen always drives to work.
+
+- If the verb is two or more words, the adverb usually goes after first verb
+
+  verb1 adverb verb2
+
+I can never remember her name.
+
+### Still, yet and already; Any more/ any longer/ no longer
+
+- we use still to say that a situation or action is continuing. It hasn't changed or stopped.
+
+When I went to bed, Chirs was still working.
+
+- Any more/ any longer/ no longer
+
+We use not … any more or not … any longer to say that a situation has changed. Any more/andy longer go to the end of a sentence.
+
+Lucy doesn't work here any more. She left last month.
+
+- Yet
+
+Yet = until now. We use yet mainly in negative sentences and questions.
+
+It's 10 o'clock and Joe isn't here yet.
+
+Have you met your neighbors yet?
+
+- Already
+
+We use already to say that something happened sooner than expected. Already usually goes in the middle of a sentence.
+
+What time is Sue leaving? She has already left.
+
+### Even
+
+- We use even to say that something is unusual or surprising.
+
+She has a TV in every room of the house, even the bathroom.
+
+- You can use even with the verb in the middle of a sentence
+
+They are very rich. They even have their own private jet.
+
+- You can use even + comparative (cheaper / more expensive)
+
+I got up very early, but Jack got up even earlier.
+
+- Even though / even when/ even if
+
+We  use even though / even when / even if + subject + verb
+
+Even though she can't drive, she bought a car.
+
+We're going even if it's rainning.
+
 # References
 
 - English Grammer in use 4th Edition
