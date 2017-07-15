@@ -49,6 +49,7 @@ default_category: uncategorized
 category_map:
   工具: tools
   英语: english
+  基础: basic
 tag_map:
 
 # Date / Time format
