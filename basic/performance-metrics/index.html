@@ -3,15 +3,44 @@
 <head>
   <meta charset="utf-8">
   
-  <title>Hello World | Charles的wiki</title>
+  <title>常见性能数据 | Charles的wiki</title>
   <meta name="author" content="Charles0429">
   
-  <meta name="description" content="Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in ">
+  <meta name="description" content="常见性能数据
+
+
+Event
+cost time
+note
+
+
+
+
+L1 cache reference
+0.5ns
+
+
+
+Branch mispredict
+5ns
+
+
+
+L2 cache reference
+7ns
+14x L1 cache
+
+
+Mutex lock/unlock
+25ns
+
+
+">
   
   
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-  <meta property="og:title" content="Hello World"/>
+  <meta property="og:title" content="常见性能数据"/>
   <meta property="og:site_name" content="Charles的wiki"/>
 
   
@@ -45,7 +74,7 @@
   <div class="container" id="container">
 	<div class="content">
 	  <div class="page-header">		
-  <h1><a class="brand" href="/">Charles的wiki</a><span class="split"></span><span class="title">Hello World</span><span class="date" id="title-date"><i class="fa fa-clock-o"></i> 2017-03-19</span></h1>
+  <h1><a class="brand" href="/">Charles的wiki</a><span class="split"></span><span class="title">常见性能数据</span><span class="date" id="title-date"><i class="fa fa-clock-o"></i> 2017-07-15</span></h1>
 </div>		
 
 <div class="row page">
@@ -58,15 +87,87 @@
 	  
 
 	  <!-- content -->
-	  <p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+	  <h1 id="常见性能数据"><a href="#常见性能数据" class="headerlink" title="常见性能数据"></a>常见性能数据</h1><table>
+<thead>
+<tr>
+<th>Event</th>
+<th>cost time</th>
+<th>note</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>L1 cache reference</td>
+<td>0.5ns</td>
+<td></td>
+</tr>
+<tr>
+<td>Branch mispredict</td>
+<td>5ns</td>
+<td></td>
+</tr>
+<tr>
+<td>L2 cache reference</td>
+<td>7ns</td>
+<td>14x L1 cache</td>
+</tr>
+<tr>
+<td>Mutex lock/unlock</td>
+<td>25ns</td>
+<td></td>
+</tr>
+<tr>
+<td>Main memory reference</td>
+<td>100ns</td>
+<td>20x L2 cache, 200x L1 cache</td>
+</tr>
+<tr>
+<td>Compress 1K bytes with Zippy</td>
+<td>3us</td>
+<td></td>
+</tr>
+<tr>
+<td>Send 1K bytes over 1 Gbps network</td>
+<td>10us</td>
+<td></td>
+</tr>
+<tr>
+<td>Read 4K randomly from SSD</td>
+<td>150us</td>
+<td>~1GB/sec SSD</td>
+</tr>
+<tr>
+<td>Read 1 MB sequentially from memory</td>
+<td>250 us</td>
+<td></td>
+</tr>
+<tr>
+<td>Round trip within same datacenter</td>
+<td>500 us</td>
+<td></td>
+</tr>
+<tr>
+<td>Read 1 MB sequentially from SSD</td>
+<td>1ms</td>
+<td>~1GB/sec SSD, 4X memory</td>
+</tr>
+<tr>
+<td>Disk seek</td>
+<td>10ms</td>
+<td>20x datacenter roundtrip</td>
+</tr>
+<tr>
+<td>Read 1 MB sequentially from disk</td>
+<td>20ms</td>
+<td>80x memory, 20X SSD</td>
+</tr>
+<tr>
+<td>Send packet CA-&gt;Netherlands-&gt;CA</td>
+<td>150 ms</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 	  
 
 	  <div>
@@ -80,16 +181,16 @@
 	
 	
 		
-	
-		
-	
-		
-	
-		
-	
-		
 			
 			
+		
+	
+		
+	
+		
+	
+		
+	
 		
 	
 	

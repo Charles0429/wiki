@@ -4,6 +4,107 @@
   
     
     <entry>
+      <title><![CDATA[常见性能数据]]></title>
+      <url>http://wiki.oserror.com/basic/performance-metrics/</url>
+      <content type="html"><![CDATA[<h1 id="常见性能数据"><a href="#常见性能数据" class="headerlink" title="常见性能数据"></a>常见性能数据</h1><table>
+<thead>
+<tr>
+<th>Event</th>
+<th>cost time</th>
+<th>note</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>L1 cache reference</td>
+<td>0.5ns</td>
+<td></td>
+</tr>
+<tr>
+<td>Branch mispredict</td>
+<td>5ns</td>
+<td></td>
+</tr>
+<tr>
+<td>L2 cache reference</td>
+<td>7ns</td>
+<td>14x L1 cache</td>
+</tr>
+<tr>
+<td>Mutex lock/unlock</td>
+<td>25ns</td>
+<td></td>
+</tr>
+<tr>
+<td>Main memory reference</td>
+<td>100ns</td>
+<td>20x L2 cache, 200x L1 cache</td>
+</tr>
+<tr>
+<td>Compress 1K bytes with Zippy</td>
+<td>3us</td>
+<td></td>
+</tr>
+<tr>
+<td>Send 1K bytes over 1 Gbps network</td>
+<td>10us</td>
+<td></td>
+</tr>
+<tr>
+<td>Read 4K randomly from SSD</td>
+<td>150us</td>
+<td>~1GB/sec SSD</td>
+</tr>
+<tr>
+<td>Read 1 MB sequentially from memory</td>
+<td>250 us</td>
+<td></td>
+</tr>
+<tr>
+<td>Round trip within same datacenter</td>
+<td>500 us</td>
+<td></td>
+</tr>
+<tr>
+<td>Read 1 MB sequentially from SSD</td>
+<td>1ms</td>
+<td>~1GB/sec SSD, 4X memory</td>
+</tr>
+<tr>
+<td>Disk seek</td>
+<td>10ms</td>
+<td>20x datacenter roundtrip</td>
+</tr>
+<tr>
+<td>Read 1 MB sequentially from disk</td>
+<td>20ms</td>
+<td>80x memory, 20X SSD</td>
+</tr>
+<tr>
+<td>Send packet CA-&gt;Netherlands-&gt;CA</td>
+<td>150 ms</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+]]></content>
+      
+        <categories>
+            
+            <category> basic </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 性能 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[mac开发环境配置]]></title>
       <url>http://wiki.oserror.com/tools/mac-development/</url>
       <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>本文主要介绍了macos上一些常见的设置和效率工具的安装</p>
