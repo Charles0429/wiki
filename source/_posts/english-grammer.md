@@ -1657,6 +1657,548 @@ Even though she can't drive, she bought a car.
 
 We're going even if it's rainning.
 
+## Prepositions
+
+### At/on/in
+
+- at for the time of day
+
+at five o'clock  at 11:45  at midnight
+
+固定搭配:
+
+at night/at the weekend/at Christmas/at the moment/at the same time
+
+- on for days and dates
+
+on Friday/on Fridays   on Christmas Day
+
+- in for longer periods
+
+in October/in 1998/in the 18th century/in the past/in the winter/in the 1990s/in the Middle Ages/in the future
+
+固定搭配：
+
+in the morning/in the afternoon/in the evening
+
+- We don't use at/on/in before last/next/this/every
+
+I'll see you next Friday.
+
+- In a few minutes/ in six months
+
+The train will be leaving in a few minutes.
+
+Andy has gone away. He'll be back in a week.
+
+### on time and in time  At the end and in the end
+
+- on time and in time
+
+on time = punctual, not late. If something happens on time, it happens at the time that was planned.
+
+in time = soon enough
+
+Will you be home in time for dinner?
+
+- at the end and in the end
+
+At the end = at the time when something ends. For example:
+
+at the end of the month/at the end of January/at the end of the game
+
+In the end = finally
+
+### in/at/on (position) 1
+
+- in
+
+in a room/ in a garden/in a pool
+
+- at
+
+at the bus stop/ at the door
+
+- on
+
+on the wall/ on her nose/on a page/ on a island
+
+- in vs at
+
+There were a lot of people in the shop. It was very crowded.
+
+Go along this road, then turn left at the shop.
+
+- in vs on
+
+There is some water in the bottle.
+
+There is a label on the bottle.
+
+- at vs on
+
+There is somebody at the door. Shall I go and see who it is?
+
+There is a notice on the door. It says 'Do not disturb'
+
+### in/at/on (position) 2
+
+主要介绍了一些固定搭配，例如：
+
+- in
+
+in a line/ in a row/ in a queue
+
+in the sky/ in the world
+
+in an office/ in a department
+
+in a book/ in a paper
+
+in bed
+
+in the country
+
+in the countryside
+
+in a picture/ in a photo/ in a photograph
+
+- on
+
+on the left/ on the right
+
+on the left-hand side/ on the right-hand side
+
+on the ground floor/ on the first floor/ on the second floor
+
+on a map/ on a menu/ on a list
+
+on a farm
+
+- at
+
+at the top (of) / at the bottom (of)/ at the end (of)
+
+### in/at/on (position) 3
+
+固定搭配
+
+- in
+
+in hospital/ in prison/ in jail
+
+- at
+
+at work/ at school/ at university/ at college
+
+at a party/ at a concert
+
+- in and at for buildings
+
+You can often use in or at with buildings. For example, you can eat in a restaurant or at a restaurant;
+
+you can buy something in a supermarket or at a supermarket.
+
+We usually say at when we say where an event takes place.
+
+We went to a concert at the National Concert Hall.
+
+- in and at for towns
+
+We normally use in with cities, towns and villages.
+
+We use at when we think of the place or station on a journey.
+
+- on a bus / in a car
+
+We usually say on a bus / on a train / on a plane / on a ship but in a car / in a taxi.
+
+### to/at/in/into
+
+- we say go/come/travel to a place or event
+
+go to China/go to bed/come to my house
+
+- we say get to a place
+
+What time did they get to London?
+
+- we say arrive in … or arrive at...
+
+The arrived in London / in Spain a week ago.
+
+- go home/ come home/ get home/ arrive home/ on the way home
+- Into
+
+go into, get into = enter
+
+I opened the door, went into the room and sat down.
+
+### in/on/at (other uses)
+
+- in
+
+in the rain/ in the sun/ in the shade/ in the dark/ in bad weather
+
+in ink/ in pen/ in pencil
+
+(be/fall) in love
+
+in my opinion
+
+- on
+
+on TV/ on television/ on the radio
+
+on the phone
+
+on strike
+
+on a diet
+
+on fire
+
+on the whole = in general
+
+Sometimes I have problems at work, but on the whole I enjoy my job.
+
+on purpose
+
+I'm sorry. I didn't mean to annoy you. I didn't do it on purpose.
+
+on holiday/ on business/ on a trip
+
+- at the age of
+
+### By
+
+- we use by in many expressions to say how we do something
+
+send something by post
+
+do something by hand
+
+- We use by to say how somebody travels
+
+by car/ by train/ by plane/ by boat/ by ship...
+
+- we say that something is done by somebody/something
+
+Have you ever been bitten by a dog?
+
+The program was watched by millions of people.
+
+- By also means 'next to/beside'
+
+Come and sit by me.
+
+Where's the light switch? by the door.
+
+### Noun + preposition
+
+- noun + for
+
+The company closed down because there wasn't enough demand for its product.
+
+- noun + of
+
+an advantage / a disadvantage of
+
+The advantage of living alone is that you can do what you like.
+
+- noun + in
+
+an increase/ a decrease / a rise / a fall in
+
+There has been an increase in the number of road accidents recently.
+
+- noun to
+
+damange to
+
+an invitation to
+
+a solution to/ a key to/ an answer to/ a reply to/ a reaction to
+
+- noun + with … / between ...
+
+a relationship / a connection / contact with
+
+Do you have a good relationship with your parents?
+
+a relationship / a connection / contact /  a difference between two things or people.
+
+### Adjective + preposition 1
+
+- It was nice of you to...
+
+nice / kind / good / generous / polite / stupid / silly of somebody to do something
+
+Thank you. It was very kind of you to help me.
+
+- Adjective + about / with
+
+angry / annoyed / furious / upset + about something / with somebody for doing something.
+
+excited / worried / nervous / happy about a situation
+
+pleased / satisfied / happy / delighted / disappointed with something you receive.
+
+They were delighted with the present I gave them.
+
+- Adjective + at / by / with / of
+
+suprised / shocked / amazed / astonished / upset at or by something
+
+Everybody was suprised at the news.
+
+impressed with or by somebody/something
+
+fed up / bored with something
+
+tired / sick of something
+
+- Sorry about / for
+
+sorry about a situation or something that happened
+
+### Adjective + preposition 2
+
+- Adjective + of (1)
+
+afraid / frightened / terrified / scared of 
+
+fond / proud / ashamed / jealous / envious of
+
+- Adjective + of (2)
+
+aware / conscious of
+
+capable / incapable of
+
+full / short of
+
+typical of
+
+certain / sure of
+
+- Adjective + at / to / from / in / on / with / for
+
+good / bad / brilliant / better / hopeless at...
+
+married / engaged to...
+
+similar to
+
+different from or different to
+
+interested in
+
+keep on
+
+dependent on
+
+croweded with
+
+famous for
+
+responsible for
+
+### Verb + preposition 1 to and at
+
+- verb + to
+
+talk / speak to
+
+listen to
+
+apologise to 
+
+explain to
+
+- we do not use to with these verbs
+
+phone / call / email / text somebody
+
+answer somebody/something
+
+ask somebody
+
+thank somebody
+
+- verb + at
+
+look / stare / glance at
+
+have a look at / take a look at
+
+laugh at
+
+aim/point at
+
+- some verbs can be followed by at or to, with a different meaning.
+
+shout at somebody (when you are angry)
+
+shout to somebody (so that they can hear you)
+
+throw something at somebody/something(in order to hit them)
+
+throw something to somebody
+
+### Verb + preposition 2 about/for/of/after
+
+- Verb + about
+
+talk / read / know about
+
+have a discussion about
+
+do something about something
+
+- verb + for
+
+ask (somebody) for
+
+apply for a job
+
+wait for
+
+search for
+
+leave for another place
+
+- Care about, care for and take care of
+
+care about = think that … is important
+
+care for somebody/something = like something / look after somebody
+
+I don't care for very hot weather = (I don't like ...)
+
+Alan is 85 and lives alone. He needs somebody to care for him.
+
+take care of = look after, keep safe, take responsibility for
+
+- look for and look after
+
+look for = search for, try to find
+
+look after = take care of, keep safe or in good condition
+
+### verb + preposition 3 about and of
+
+- hear about / hear of / hear from
+
+hear about:be told about something
+
+hear of = know that somebody/something exists
+
+hear from = be in concat with somebody
+
+- think about … and think of ...
+
+when you think about something, you consider it, you concentrate you mind on it.
+
+when you think of something, the idea comes to your mind
+
+- dream about / dream of
+
+dream about (when you are asleep)
+
+dream of being something / doing something = imagine
+
+- complain about / complain of
+
+complain about = say that you are not satisfied
+
+complain of a pain, an illness = say that you have a pain
+
+- remind somebody about = tell somebody not to forget
+- remind somebody of = cause somebody to remember
+
+### Verb + preposition 4 of/for/from/on
+
+- Verb + of
+
+accuse / suspect somebody of
+
+approve / disapprove of
+
+die of / from an illness
+
+consist of
+
+- Verb + for
+
+pay somebody for
+
+thank / forgive somebody for
+
+apologise to somebody for
+
+blame somebody/something for
+
+blame (a problem etc.) on
+
+- Verb + from
+
+suffer from an illness
+
+protect somebody / something from
+
+- Verb + on
+
+depend / reply on
+
+live on
+
+congratulate / compliment somebody on
+
+### verb + preposition 5 in/into/with/to/on
+
+- Verb + in
+
+believe in
+
+specialise in
+
+succeed in
+
+- Verb + into
+
+break into
+
+crash / drive / bump / run into
+
+divide / cut / split something into two or more parts
+
+translate a book etc. from one language into another
+
+- Verb + with
+
+collide with
+
+fill something with
+
+provide / supply somebody with
+
+- verb + to
+
+happend to
+
+invite somebody to a party
+
+prefer one thing / person to another
+
+- Verb + on
+
+concentrate on
+
+insist on
+
+spend (money) on
+
 # References
 
 - English Grammer in use 4th Edition
