@@ -20,19 +20,19 @@ tags:
 1. 重复按键时提升速度，在vim中移动光标的时候就不会卡顿了
 2. 将F1-F12设置成标准的功能键
 
-![](http://img.oserror.com/wiki/keyboard.png)
+![](http://o8m1nd933.bkt.clouddn.com/wiki/keyboard.png)
 
 如果是用普通的外接键盘的话，上面的windows键是和mac下的command键对应的，但是，普通键盘的option键和command键的顺序和mac原生键盘的键位是反的，所以还需要设置一下：
 
 打开系统偏好设置->键盘->修饰键
 
-![](http://img.oserror.com/wiki/outer_keyboard.png)
+![](http://o8m1nd933.bkt.clouddn.com/wiki/outer_keyboard.png)
 
 还需要设置一下输入法的切换快捷键：
 
 系统偏好设置->键盘->快捷键->输入源
 
-![](http://img.oserror.com/wiki/input_method.png)
+![](http://o8m1nd933.bkt.clouddn.com/wiki/input_method.png)
 
 ## 快速屏保设置
 
@@ -40,13 +40,13 @@ tags:
 
 打开系统偏好设置->桌面与屏幕保护程序->屏幕保护程序->触发角
 
-![](http://img.oserror.com/wiki/sleep.png)
+![](http://o8m1nd933.bkt.clouddn.com/wiki/sleep.png)
 
 为了绝对的安全，还可以设置成进入屏幕保护程序后，需要马上用密码才能进入系统的方式，具体的是：
 
 系统偏好设置->安全性与隐私性->通用
 
-![](http://img.oserror.com/wiki/password.png)
+![](http://o8m1nd933.bkt.clouddn.com/wiki/password.png)
 
 ## 双屏幕Docker停留位置
 
@@ -61,7 +61,7 @@ tags:
 
 macos下的`Command+tab`组合键切换应用程序时只能按顺序一个个的切换，非常的不方面，而Mannico提供的是用快捷键的方式自动的切换应用，如下：
 
-![](http://img.oserror.com/wiki/launcher.png)
+![](http://o8m1nd933.bkt.clouddn.com/wiki/launcher.png)
 
 ## Alfred
 
@@ -69,17 +69,17 @@ macos下的`Command+tab`组合键切换应用程序时只能按顺序一个个�
 
 默认情况下Alfred是开启搜索文件的，可以在Prefrence里面设置开启
 
-![](http://img.oserror.com/wiki/alfred.png)
+![](http://o8m1nd933.bkt.clouddn.com/wiki/alfred.png)
 
 ## Popclip
 
 选中文字后会直接弹出`拷贝、粘贴`等浮动窗
 
-![](http://img.oserror.com/wiki/popclip.png)
+![](http://o8m1nd933.bkt.clouddn.com/wiki/popclip.png)
 
 对于某些程序，可能希望设置成Popclip禁用的状态，如下：
 
-![](http://img.oserror.com/wiki/popclip2.png)
+![](http://o8m1nd933.bkt.clouddn.com/wiki/popclip2.png)
 
 ## xtrafinder
 
@@ -87,7 +87,7 @@ xtrafinder支持像chrome一样的标签页，非常的方便，[传送门](http
 
 效果图如下:
 
-![](http://img.oserror.com/wiki/xtrafinder.png)
+![](http://o8m1nd933.bkt.clouddn.com/wiki/xtrafinder.png)
 
 ## macdown
 

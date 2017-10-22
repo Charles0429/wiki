@@ -75,7 +75,7 @@ ProjectCreate $HOME/code/levedb -n c++
 
 效果如下图：
 
-![call graph](http://img.oserror.com/wiki/leveldb_call_graph.png)
+![call graph](http://o8m1nd933.bkt.clouddn.com/wiki/leveldb_call_graph.png)
 
 除了查看调用栈的功能，vim + eclim还可以实现eclipse两个常见功能：
 
